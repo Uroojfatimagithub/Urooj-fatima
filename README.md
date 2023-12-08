@@ -23,13 +23,15 @@ I'm currently diving deep into the world of backend web development. Excited to 
 
 ## 📂 Projects
 
-Here are some of the projects I've been working on:
+Here are some of the projects I've been worked:
 
-1. []() - Brief description.
-   ![Project 1 Screenshot](Link to Screenshot)
+1. [Book shop management systems in c++](https://github.com/Uroojfatimagithub/C-all-codes/blob/main/bookshop%20management%20system.cpp)
+2. [Hotel management systems in c++](https://github.com/Uroojfatimagithub/C-all-codes/blob/main/PF%20Final%20Project.cpp)
+3. [Student management systems in c++](https://github.com/Uroojfatimagithub/C-all-codes/blob/main/PF%20Final%20Project.cpp)
+   ![Project 1 Screenshot](https://github.com/Uroojfatimagithub/C-all-codes/blob/main/screenshot.png)
 
-2. [Project 2 Name](Link to Project 2) - Brief description.
-   ![Project 2 Screenshot](Link to Screenshot)
+4. [HTML Project](https://github.com/Uroojfatimagithub/HTML-CSS-codes/blob/main/structuring%20project.html) 
+   ![Project  Screenshot](http://127.0.0.1:5501/structuring%20project.html)
 
 ## 📫 Let's Connect
 
