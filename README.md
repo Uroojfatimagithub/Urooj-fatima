@@ -25,7 +25,7 @@ I'm currently diving deep into the world of backend web development. Excited to 
 
 Here are some of the projects I've been working on:
 
-1. [Management systems in c++]() - Brief description.
+1. []() - Brief description.
    ![Project 1 Screenshot](Link to Screenshot)
 
 2. [Project 2 Name](Link to Project 2) - Brief description.
@@ -34,7 +34,7 @@ Here are some of the projects I've been working on:
 ## 📫 Let's Connect
 
 - LinkedIn: [Urooj Fatima](https://www.linkedin.com/in/urooj-fatima-6aa724295/)
-- 
+
 
 Feel free to explore my repositories, open issues, and contribute if you find something interesting. Happy coding! 🚀
 
